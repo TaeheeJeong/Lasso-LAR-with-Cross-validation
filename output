@@ -31,3 +31,12 @@ target: SCHCONN1
  'VIOL1': -0.63926717022798418,
  'WHITE': 0.0
 
+training data MSE
+18.1485726641
+test data MSE
+17.2925174272
+
+training data R-square
+0.333611136927
+test data R-square
+0.31001113416
